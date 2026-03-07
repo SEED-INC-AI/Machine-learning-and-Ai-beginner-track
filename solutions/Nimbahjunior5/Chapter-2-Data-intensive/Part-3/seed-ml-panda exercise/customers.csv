@@ -1,0 +1,316 @@
+customer_id,full_name,email,phone,region,subscription_type,status,age,join_date
+CUST0001,Uma Brown,uma.brown94@email.com,,Cntrl,Premium,Inactive,70,26 Aug 2020
+CUST0002,Alice Hall,alice.hall41@email.com,+1-900-714-2983,South,,Active,62,2023-10-25
+CUST0003,Iris Davis,iris.davis56@email.com,+1-779-901-1672,Central,basic ,Inactive,61,2021-02-24
+CUST0004,Henry Jones,henry.jones78@email.com,+1-555-645-8018,Central,Enterprise,Inactive,45,2023/04/09
+CUST0005,Xander Brown,xander.brown66@email.com,+1-877-479-2129,East,Enterprise,Suspended,69,2022-09-28
+CUST0006,Victor Hall,victor.hall15@email.com,+1-718-763-6590,North,basic,active ,29,2020-07-05
+CUST0007,Cleo Thompson,,+1-212-969-7882,West ,Enterprise,In-active,24,2022-11-11
+CUST0008,Carol Robinson,carol.robinson74@email.com,+1-701-208-8102,North,premium,suspended,24,2022-07-01
+CUST0009,Noah Johnson,noah.johnson25@email.com,+1-570-750-8532,West,Premium,Inactive,51,2020-04-23
+CUST0010,Alice Williams,alice.williams33@email.com,+1-924-256-8135,North,Basic,Suspended,27,2022-07-17
+CUST0011,Grace Davis,,+1-380-851-9548,,Premium,Suspended,33,09-27-2020
+CUST0012,Quinn Clark,quinn.clark91@email.com,,NORTH,BASIC,Suspended,30,2022-11-17
+CUST0013,Alice Thompson,alice.thompson56@email.com,,East,Premium,ACTIVE,57,30 Apr 2022
+CUST0014,Grace Walker,  grace.walker1@email.com  ,+1-646-945-5397,Central,Standrd,Suspended,51,2022-07-24
+CUST0015, Uma Walker ,uma.walker67@email.com,+1-530-972-5022,West,Basic,Inactive,34,2023/02/28
+CUST0016,Rose Jackson,rose.jackson69@email.com,+1-288-385-8385,Cntrl,Premium,Inactive,70,2020-04-28
+CUST0017,Henry White,henry.white88@email.com,+1-449-868-8613,West,Standard,Suspd.,40,2023-02-18
+CUST0018,Sam Wilson,sam.wilson93@email.com,+1-783-724-7209,West,BASIC,Suspended,35,04 Aug 2022
+CUST0019,Zane Smith,zane.smith95@email.com,+1-544-129-9098,East,Premium,Suspended,68,2023-10-09
+CUST0020,Yara Garcia,   yara.garcia95@email.com   ,+1-532-286-8988,north,Premium,Active,43,2021-09-23
+CUST0021,Wendy Jackson,wendy.jackson86@email.com,+1-417-463-5232,West,Standard,Suspended,23,2020-02-14
+CUST0022,Karen Wilson,karen.wilson26@email.com,+1-548-386-5526,North,enterprise,Active,41,2022-03-21
+CUST0023,Eve Miller,eve.miller47@email.com,+1-769-110-9464,East,Enterprise,Suspended,43,2021-06-05
+CUST0024,Yara Taylor,yara.taylor56@email.com,+1-395-187-4954,South,Standard,Inactive,47,2020-01-07
+CUST0025,David Williams,   david.williams9@email.com   ,+1-937-516-9004,Central,Standard,Active,54,03-22-2021
+CUST0026,Mia Brown,mia.brown86@email.com,+1-768-876-4937,West,,Suspd.,33,2023-03-30
+CUST0027,Leo Anderson,leo.anderson43@email.com,+1-907-587-9041,East,Enterprise,Suspended,62,2020-05-29
+CUST0028,Tina Wilson,tina.wilson80@email.com,+1-658-911-1282,North,Basic,Suspended,32,2020-04-02
+CUST0029,Zane Johnson,zane.johnson41@email.com,+1-295-401-4630,,Premium,Suspended,37,2022-05-17
+CUST0030,Xander White,,+1-614-808-4986,North,Standard,inactive,0,2021-12-06
+CUST0031,  Rose Brown  ,rose.brown16@email.com,+1-513-779-7046,South,BASIC,Activ,70,2023-12-05
+CUST0032,Drew Thomas, drew.thomas93@email.com ,+1-684-666-9698,west,Standard,Suspended,23,2020-05-10
+CUST0033,Carol Thompson,carol.thompson39@email.com,,Central,Basic,Active,59,13/01/2023
+CUST0034,Jack Lewis,jack.lewis65@email.com,+1-560-819-8434,West,premium,Active,59,2020-05-03
+CUST0035,Tina Anderson,tina.anderson40@email.com,,CENTRAL,Premium,Suspended,66,2020-05-21
+CUST0036,Sam Miller,sam.miller86@email.com,,North,Enterprise,Suspd.,20,2022-08-24
+CUST0037,Wendy Williams,wendy.williams53@email.com,+1-523-222-9779,West,,Active,23,2020-03-05
+CUST0038, Bob Young ,bob.young42@email.com,+1-980-806-4033,East,Premium,Active,43,2021-08-10
+CUST0039,Henry Moore,henry.moore52@email.com,+1-396-321-8933,East,Basic,Active,42,17 Apr 2022
+CUST0040,Carol Davis,carol.davis90@email.com,+1-483-841-9595,South,Standard,Inactive,42,2021-01-03
+CUST0041,Brice Brown,brice.brown38@email.com,+1-811-389-2647,,premium,Inactive,53,2020-10-04
+CUST0042,Mia Wilson,mia.wilson71@email.com,+1-398-403-4727,South,Premium,Inactive,48,2023-08-06
+CUST0043,Olivia Lewis,,+1-569-283-5952,North,Basic,Active,21,2023-08-15
+CUST0044,Amara Anderson,amara.anderson25@email.com,+1-214-825-9751,Central,Premium,inactive,58,2022-05-10
+CUST0045,Frank Anderson,double@@email.com,+1-329-380-1745,North ,Premium,Suspended,18,02-05-2022
+CUST0046,Leo Miller,   leo.miller86@email.com   ,+1-255-666-5786,Central,,Active,62,2022-02-22
+CUST0047,Victor Wilson,victor.wilson49@email.com,+1-914-229-9042,Central,Premium,Inactive,28,2022-07-07
+CUST0048,Wendy Young,wendy.young87@email.com,,SOUTH,Enterprise,Suspended,23,2022-02-12
+CUST0049,Uma Williams,uma.williams96@email.com,+1-787-391-8690,East,Enterprise,Suspended,49,2022-02-08
+CUST0050,Tina Lewis,tina.lewis23@email.com,+1-690-551-6582,East,Enterprize,Inactve,45,2020-06-13
+CUST0051,Frank Thompson,frank.thompson79@email.com,+1-388-152-5136,South,enterprise,SUSPENDED,59,2023-10-30
+CUST0052,Xander Davis,xander.davis73@email.com,+1-689-216-2070,South,premium,Suspended,68,2023/09/17
+CUST0053,Frank White,frank.white39@email.com,+1-610-603-2213,North,Standard,Active,39,09/01/2023
+CUST0054,Mia Wilson,mia.wilson52@email.com,+1-790-744-1878,South,Ent.,Suspd.,54,2020-09-29
+CUST0055,Drew Lewis,drew.lewis71@email.com,,East,Enterprise,active ,24,2023-08-31
+CUST0056,Wendy Thompson,wendy.thompson1@email.com,+1-287-354-2940,South,Premium,Suspended,51,2021/12/13
+CUST0057,Henry Young,henry.young39@email.com,,South,Premium,Active,20,2020-08-30
+CUST0058, Karen Johnson ,   karen.johnson37@email.com   ,+1-820-710-4697,Central,,Suspnded,32,2020-12-31
+CUST0059,Henry Johnson,,+1-994-635-7232,South,ENTERPRISE,Inactive,31,2023-01-05
+CUST0060,Zane Taylor,   zane.taylor56@email.com   ,+1-661-553-5871,North,Basic,Suspended,62,2022-03-15
+CUST0061,Mia Wilson,mia.wilson75@email.com,+1-802-539-6003,South,Enterprise,Inactive,54,2022-12-19
+CUST0062,Carol Miller,user@,+1-782-735-1986,West,Standard,Suspd.,48,2020-09-17
+CUST0063,Drew Robinson,drew.robinson84@email.com,+1-824-857-2625,WEST,Premium,Inactive,35,2021-04-01
+CUST0064,Cleo Walker,cleo.walker42@email.com,+1-981-312-4457,Central,Premium,Inactive,20,2020-01-08
+CUST0065,Karen Miller,karen.miller60@email.com,+1-470-776-2330,Central,Basic,Active,22,2020-02-16
+CUST0066,Uma Harris,uma.harris57@email.com,+1-360-345-3847,West,Basic,Inactive,61,09-03-2021
+CUST0067,Mia Lewis,mia.lewis57@email.com,+1-765-176-3564,central,Premium,Suspd.,35,2022-08-06
+CUST0068,Olivia Jones,olivia.jones87@email.com,+1-202-518-8381,Central,Premium,INACTIVE,52,2023-10-11
+CUST0069,Iris Jones,iris.jones28@email.com,+1-905-708-8699,East,Premium,suspended,54,2023-01-20
+CUST0070,Henry Hall,henry.hall66@email.com,,East,Enterprise,Inactive,60,2022-05-18
+CUST0071,Rose Thompson,noatsign.com,+1-495-823-5632,South,Ent.,Suspended,20,2022-12-25
+CUST0072,Iris Hall,iris.hall95@email.com,,Wst,Standrd,Suspnded,29,2022-02-15
+CUST0073,Sam Jackson,,+1-272-803-4824,North,Enterprise,Suspended,38,2021-04-15
+CUST0074,Cleo Robinson,cleo.robinson85@email.com,+1-470-906-4241,West,Premium,Suspended,19,2021-05-21
+CUST0075,   Mia Anderson   ,mia.anderson11@email.com,,West,,Suspended,31,2022-08-01
+CUST0076,Henry Jones,henry.jones37@email.com,+1-430-763-3441,East,basic ,Inactive,55,2021-12-09
+CUST0077,Quinn Harris,quinn.harris66@email.com,+1-472-946-3330,East,Premium,Suspended,27,2020-11-13
+CUST0078,Carol Johnson,carol.johnson85@email.com,,Central,Enterprise,Inactive,66,07-18-2021
+CUST0079,Brice Brown,brice.brown82@email.com,+1-514-709-5728,North,PREMIUM,Active,70,21/01/2021
+CUST0080,Eve Lewis,eve.lewis80@email.com,+1-649-227-8679,East,Basic,active ,63,2020-08-19
+CUST0081,Frank Young,frank.young43@email.com,+1-905-411-7594,Central,Basic,Inactve,70,2020-03-06
+CUST0082,Noah Clark,noah.clark12@email.com,+1-478-612-9847,North,Enterprise,Suspnded,43,14/09/2023
+CUST0083,Carol Thomas,carol.thomas97@email.com,+1-705-548-2317,East,Premiun,Inactive,22,2022-05-08
+CUST0084,Mia Clark,mia.clark31@email.com,+1-812-140-8078,West,STANDARD,active ,37,2023-06-13
+CUST0085,Olivia Martin,olivia.martin87@email.com,+1-952-430-5102,WEST,Basic,Inactive,28,2020-02-02
+CUST0086,Iris Thompson,iris.thompson40@email.com,+1-226-193-4750,North,Standard,Inactive,54,2021-05-07
+CUST0087,Brice Smith,brice.smith29@email.com,+1-890-956-1339,North,Enterprise,Suspnded,33,2021-02-26
+CUST0088,Victor Hall,victor.hall26@email.com,+1-983-788-5415,Est,Basic,Active,54,2020-05-17
+CUST0089,David Young,david.young19@email.com,+1-790-141-3870,East,Standard,Suspended,42,2020-07-25
+CUST0090,Cleo Thompson,cleo.thompson4@email.com,+1-681-631-8245,North,basic,Suspended,61,2023-05-01
+CUST0091,Yara Wilson,yara.wilson6@email.com,+1-484-285-8141,North,Standard,Inactive,52,2020-03-09
+CUST0092,Yara Lewis,   yara.lewis32@email.com   ,+1-850-933-9056,Cntrl,Premium,Inactive,39,2022-07-03
+CUST0093,Karen Brown,karen.brown61@email.com,+1-293-581-6700,Central,Premium,Inactive,42,2023-05-09
+CUST0094,Jack Jackson,jack.jackson79@email.com,+1-618-441-6260,Central,Enterprise,Inactive,66,2023-10-08
+CUST0095,Frank White,frank.white99@email.com,+1-886-207-3634,West,BASIC,Suspended,65,2023-12-11
+CUST0096,   Alice Hall   ,alice.hall10@email.com,+1-537-521-9117,West,Standard,Suspended,26,2020-04-09
+CUST0097,Cleo Hall,cleo.hall59@email.com,+1-495-778-7561,Central,Enterprise,Inactive,68,2021-05-16
+CUST0098,Iris Martin,iris.martin54@email.com,+1-978-663-1601,CENTRAL,Premium,Inactive,62,2020-03-31
+CUST0099,Yara Garcia,,+1-665-190-6153,North,Premium,Active,64,2022-04-03
+CUST0100,Quinn Brown,quinn.brown74@email.com,+1-458-431-2899,West ,Enterprise,Suspd.,23,2022-06-17
+CUST0101,Brice Lewis,,+1-991-513-9431,Central,Basic,Suspended,50,2021-04-24
+CUST0102,Jack Lewis,jack.lewis92@email.com,+1-201-773-9889,South,Standard,Suspended,65,10 Jan 2023
+CUST0103,Quinn Clark,quinn.clark90@email.com,+1-673-523-1888,East,Premium,Inactive,40,2021-03-20
+CUST0104,Grace Jones,grace.jones50@email.com,+1-392-630-6927,Central,ENTERPRISE,Inactive,21,2020-04-25
+CUST0105,Leo Garcia,leo.garcia64@email.com,+1-837-874-9167,West,premium,Inactive,24,2020-10-13
+CUST0106,Rose Martin,rose.martin52@email.com,+1-840-552-1845,Central,PREMIUM,Active,45,10-28-2022
+CUST0107,Drew Smith,drew.smith32@email.com,+1-408-373-9998,South,Standard,Inactive,32,2021-08-15
+CUST0108,Tina Taylor,tina.taylor19@email.com,,North,Basic,Activ,22,2021-04-24
+CUST0109,Paul Smith,paul.smith84@email.com,+1-915-596-2989,West,Basik,Inactive,39,2023-03-25
+CUST0110,  David Anderson  ,david.anderson89@email.com,+1-229-745-4920,North,Standard,Suspended,56,2021-10-15
+CUST0111,Cleo Moore,cleo.moore1@email.com,+1-926-262-6091,East,Enterprise,Active,67,03-28-2023
+CUST0112,Henry Johnson,henry.johnson97@email.com,+1-764-114-7684,North,Enterprise,Inactive,57,05-09-2023
+CUST0113,Henry Robinson,henry.robinson99@email.com,+1-295-330-2858,Central,Basic,Inactive,56,09/10/2023
+CUST0114,Carol Williams,carol.williams14@email.com,+1-672-220-3522,S.,,SUSPENDED,43,2021-10-18
+CUST0115,Xander Harris,xander.harris55@email.com,+1-710-833-5781,NORTH,Premium,Inactive,67,2021-04-30
+CUST0116,Amara Williams,amara.williams29@email.com,+1-721-822-5479,South,Enterprise,Suspended,38,2021-09-10
+CUST0117,Yara Thompson,yara.thompson23@email.com,+1-625-954-8905,West,Standard,Inactive,19,20/10/2020
+CUST0118,Yara Jones,yara.jones90@email.com,+1-683-349-8483,West,Premium,Active,58,2023-09-14
+CUST0119,Eve Young,eve.young67@email.com,+1-764-248-7284,Cntrl,Enterprise,Active,35,03/12/2022
+CUST0120,Paul Thompson,paul.thompson60@email.com,+1-395-713-9327,Central,,Suspended,68,2021-03-28
+CUST0121, Frank Wilson ,frank.wilson7@email.com,+1-964-239-2143,Central,BASIC,Inactive,46,26/04/2022
+CUST0122,Quinn Clark,quinn.clark72@email.com,+1-482-891-7798,South,Standard,Suspended,49,2021-09-07
+CUST0123,Noah Miller,spaces in@email.com,+1-548-906-9318,East,Basic,Suspended,32,2021-07-17
+CUST0124,Drew Thompson,drew.thompson16@email.com,+1-473-940-1042,East,Enterprize,inactive,40,2020-05-04
+CUST0125,Yara Hall,yara.hall59@email.com,,East,Standard,Active,53,2023-02-14
+CUST0126,Wendy Miller,wendy.miller18@email.com,+1-801-693-9022,West,Enterprise,Active,42,2023-04-26
+CUST0127,Wendy Moore,wendy.moore60@email.com,+1-352-557-9824,West,basic ,Suspended,45,2020-12-24
+CUST0128,Mia Young,mia.young86@email.com,+1-695-453-6446,East,Premium,Suspended,29,2023-07-06
+CUST0129,Uma Anderson,,+1-765-881-9903,Central,Premium,Suspended,61,2023-10-22
+CUST0130,Olivia Martin,olivia.martin72@email.com,+1-586-566-6272,North,Basic,Active,55,2022-05-24
+CUST0131,Olivia Brown,olivia.brown77@email.com,+1-393-814-4912,East,,Active,60,2023-02-12
+CUST0132,Henry Davis,henry.davis41@email.com,+1-785-492-4826,North,Premium,Active,42,12 Oct 2022
+CUST0133,Carol Taylor,carol.taylor97@email.com,+1-994-520-1715,East,standard,Suspended,23,2020-04-06
+CUST0134,Alice Robinson,alice.robinson57@email.com,+1-525-862-8749,North,STANDARD,Suspended,67,2021/12/06
+CUST0135,Rose Davis,rose.davis79@email.com,,Central,Prem.,active,57,2023-08-10
+CUST0136,Sam Davis,sam.davis93@email.com,+1-595-779-3492,West,Standard,Suspended,36,2023-10-06
+CUST0137,Alice Williams,alice.williams65@email.com,,East,Basic,ACTIVE,69,2022-02-19
+CUST0138,Wendy Lewis,wendy.lewis55@email.com,+1-714-704-6439,Est,Standard,Active,33,2022-12-10
+CUST0139,Bob Davis,bob.davis71@email.com,+1-302-995-8213,Central,Standard,Active,63,14/10/2021
+CUST0140,Carol Johnson,carol.johnson58@email.com,,South,Standard,Inactive,22,2023-11-27
+CUST0141,  Brice Taylor  ,brice.taylor21@email.com,,East,Enterprise,Inactive,23,2022/05/02
+CUST0142,Carol Martin,carol.martin96@email.com,+1-619-991-3529,North,basic,Suspended,35,2022-04-16
+CUST0143,Henry Wilson,henry.wilson61@email.com,+1-276-580-5342,Central,Premium,inactive,27,2020-11-01
+CUST0144,Victor Harris,victor.harris58@email.com,+1-546-738-7512,South,Premium,Active,42,2021-09-06
+CUST0145,Grace Thompson,grace.thompson34@email.com,+1-865-182-6383,East,Enterprise,SUSPENDED,63,2022-02-09
+CUST0146,Eve Hall,,+1-890-979-9742,East,Standrd,Active,68,2021-01-11
+CUST0147, Drew Robinson ,@nodomain.com,+1-589-424-8994,West,basic ,Activ,58,2023-01-06
+CUST0148,Sam Harris,sam.harris82@email.com,+1-754-136-2121,South,,Suspended,27,2022-08-27
+CUST0149,Henry Harris,,+1-440-746-5708,Central,Premium,Active,65,2021-05-08
+CUST0150,Zane Jackson,zane.jackson99@email.com,,NORTH,,Inactive,42,2021-04-06
+CUST0151,Grace Brown,grace.brown67@email.com,+1-644-200-2646,East,Ent.,Suspended,38,2021-09-07
+CUST0152,David Young,david.young63@email.com,+1-654-270-5906,Central,ENTERPRISE,Inactive,41,20/12/2023
+CUST0153,Noah Anderson,noah.anderson81@email.com,+1-229-147-6314,West,Enterprise,Inactive,24,2020-10-22
+CUST0154,Noah Jackson,noah.jackson31@email.com,+1-257-400-6873,East,Basic,Suspended,23,08-06-2022
+CUST0155,Olivia Hall,olivia.hall36@email.com,+1-583-541-3385,South,Standard,Active,18,2020-04-28
+CUST0156,Bob Young,bob.young57@email.com,+1-450-643-7751,Central,PREMIUM,Inactive,37,2023/02/25
+CUST0157,Uma Lewis,uma.lewis10@email.com,,North ,Basic,Inactive,46,04-25-2022
+CUST0158,David Johnson,david.johnson92@email.com,+1-374-279-2293,West,Enterprise,Inactive,41,2022-05-03
+CUST0159,Mia Hall,mia.hall37@email.com,,Central,Enterprise,Suspended,66,2023-02-15
+CUST0160,Karen Brown,karen.brown31@email.com,+1-834-799-4945,East,Premium,Active,35,2022-12-21
+CUST0161,   Henry Miller   ,henry.miller35@email.com,+1-709-697-3344,North,Std,Activ,24,2020-10-01
+CUST0162,Grace Thompson,grace.thompson43@email.com,+1-437-572-5161,East,STANDARD,Suspended,26,03-06-2022
+CUST0163,Olivia Jones,olivia.jones41@email.com,+1-670-361-1153,East ,Standard,Suspended,23,2021-05-12
+CUST0164,Noah Garcia,  noah.garcia70@email.com  ,+1-676-394-9955,South,Enterprise,Active,29,2021-06-06
+CUST0165,Iris White,iris.white11@email.com,+1-361-175-8237,,Basic,Suspended,45,2021-02-20
+CUST0166,Henry Williams,henry.williams18@email.com,+1-553-701-5901,East,Basic,Suspended,46,2021-11-07
+CUST0167,Olivia Thompson,olivia.thompson20@email.com,+1-854-534-5097,WEST,Standard,Suspended,53,2023-08-17
+CUST0168,David Johnson,david.johnson30@email.com,+1-667-965-5949,South,Prem.,Active,53,2020-06-10
+CUST0169,Uma Thompson,,+1-403-493-8916,South,Standard,Active,50,2022-07-10
+CUST0170,Amara Smith,amara.smith89@email.com,+1-309-342-7248,South,Standard,Inactive,44,2022-01-29
+CUST0171,  Carol Davis  ,carol.davis20@email.com,,South,Premium,Active,24,2020-07-08
+CUST0172,Frank Jackson,,+1-916-402-1359,North,Standard,Active,19,2023-01-01
+CUST0173,Paul Harris,paul.harris28@email.com,,East,,Inactive,23,2021-01-25
+CUST0174,Grace Thomas,grace.thomas9@email.com,+1-208-679-1803,North,,Inactive,40,15/04/2020
+CUST0175,Cleo Johnson,cleo.johnson54@email.com,+1-820-863-9138,Central,Basic,Active,53,2021-07-03
+CUST0176,Frank Thomas,frank.thomas53@email.com,+1-493-894-4770,Central,Premiun,Suspended,23,11 Feb 2022
+CUST0177,Alice Thomas,alice.thomas43@email.com,,Central,Standard,Inactve,56,2023-10-11
+CUST0178,Iris White,iris.white70@email.com,+1-424-751-4115,North,Premiun,Active,56,2023-05-23
+CUST0179,Jack Jackson,jack.jackson60@email.com,+1-835-356-3240,East,Std,Active,68,2023-05-19
+CUST0180,Wendy Hall,notanemail,+1-843-199-1645,Centr.,Premium,Inactive,38,2020-03-21
+CUST0181,Zane Thompson,zane.thompson8@email.com,+1-516-907-8222,South,Basic,Suspended,42,2020-05-29
+CUST0182,Victor Walker,victor.walker27@email.com,+1-234-693-6977,Central,Standard,Suspended,18,2021-01-20
+CUST0183,Paul Jones,paul.jones54@email.com,+1-949-234-2476,West,Standard,Active,150,2023/04/18
+CUST0184,Grace Moore,grace.moore50@email.com,+1-502-434-7807,South,STANDARD,Inactive,44,2023-10-07
+CUST0185,Grace Johnson,grace.johnson99@email.com,+1-379-305-3165,South,Premium,Inactive,199,2023-02-18
+CUST0186,Sam Hall,test@.com,+1-752-997-6994,South,Basic,INACTIVE,67,2021-03-20
+CUST0187,Rose Johnson,rose.johnson90@email.com,,Central,Basic,Suspended,23,09-08-2022
+CUST0188,Xander Taylor,xander.taylor3@email.com,+1-368-363-8894,Sth,BASIC,Suspended,64,2021-03-03
+CUST0189,Bob Johnson,bob.johnson98@email.com,+1-502-864-6549,West,Basic,Suspended,53,2021-11-12
+CUST0190,Sam Harris,sam.harris74@email.com,+1-317-579-2233,North,Premium,Inactive,33,2021-09-12
+CUST0191,Quinn Martin,quinn.martin49@email.com,+1-344-872-4696,West,Standard,Active,54,02-01-2020
+CUST0192,Frank Johnson,frank.johnson62@email.com,+1-892-841-7511,East,Enterprise,Suspended,51,2021-03-09
+CUST0193,Quinn Williams,quinn.williams1@email.com,+1-770-474-2479,South,Basic,Inactive,28,2021-01-24
+CUST0194,Brice Garcia,brice.garcia46@email.com,+1-604-114-5332,West,ENTERPRISE,Inactive,61,2020-08-28
+CUST0195,Carol Clark,carol.clark39@email.com,+1-749-226-8451,,Premium,ACTIVE,42,07 Sep 2022
+CUST0196,Carol Young,missing@,+1-577-788-5295,East,Premium,Active,28,2021/05/11
+CUST0197,Brice Davis,brice.davis50@email.com,+1-798-490-7086,West,Enterprise,Inactive,999,2023/11/25
+CUST0198,Mia Brown,mia.brown54@email.com,,South,Standard,Active,35,2023-05-22
+CUST0199,Cleo Robinson,cleo.robinson69@email.com,+1-682-125-6374,Central,Enterprize,Suspended,37,2023-12-12
+CUST0200,Henry Robinson,henry.robinson96@email.com,+1-824-326-2035,Sth,Premium,Inactive,35,2021-02-22
+CUST0201,Tina Johnson,tina.johnson95@email.com,+1-850-943-8606,East,Enterprise,Suspended,49,03-23-2022
+CUST0202,Tina Williams,   tina.williams70@email.com   ,+1-917-409-7689,West,Basic,Inactive,27,2021-05-05
+CUST0203,Noah Young,noah.young78@email.com,+1-319-243-1742,South,Basic,Suspended,22,2023-02-04
+CUST0204,Sam Robinson,sam.robinson29@email.com,+1-238-411-9071,East ,Standard,Active,28,2021-10-20
+CUST0205,Quinn Taylor,quinn.taylor63@email.com,+1-318-199-4846,CENTRAL,Enterprise,Active,45,2021-08-02
+CUST0206,Drew Wilson,,+1-750-238-7367,West,Enterprise,Suspended,35,2022-02-18
+CUST0207,Grace Young,grace.young35@email.com,+1-664-479-9850,Wst,Enterprise,Inactive,44,12/08/2022
+CUST0208,Wendy Taylor,wendy.taylor56@email.com,+1-629-701-3531,East,Enterprise,Inactive,37,2022-12-28
+CUST0209,Henry Wilson,,+1-624-770-2622,West,STANDARD,Suspended,48,2023-08-21
+CUST0210,Mia Jones,mia.jones4@email.com,+1-701-730-7686,Centr.,Premium,Suspended,68,2022-01-05
+CUST0211,Victor Lewis,victor.lewis50@email.com,+1-486-133-7070,Centr.,Std,Active,22,2021-09-23
+CUST0212,Jack White,jack.white44@email.com,+1-422-554-8285,West ,PREMIUM,Active,41,2021-06-19
+CUST0213,Karen Williams,karen.williams86@email.com,+1-441-975-6942,South,Premium,suspended,34,2022-01-06
+CUST0214,Alice White,alice.white87@email.com,+1-301-802-7018,South,Premium,Suspended,33,2022-11-16
+CUST0215,Tina Robinson,tina.robinson52@email.com,,Central,Enterprize,Inactive,64,10-15-2022
+CUST0216,David Williams,david.williams93@email.com,,Sth,STANDARD,Inactive,58,08-12-2022
+CUST0217,Rose Miller,rose.miller22@email.com,+1-394-225-8450,East,Premium,SUSPENDED,49,2020-07-20
+CUST0218,Quinn Wilson,quinn.wilson60@email.com,+1-293-778-4475,North,Basic,Inactive,56,2022-08-19
+CUST0219,Eve Anderson,eve.anderson17@email.com,+1-857-754-1349,West,Premium,Active,57,2021-10-17
+CUST0220,Cleo Williams,cleo.williams80@email.com,+1-251-905-6464,East,Standard,Inactive,30,2021-02-20
+CUST0221,Cleo Davis,cleo.davis69@email.com,+1-449-228-4362,central,Enterprise,Suspended,199,2022-01-29
+CUST0222,Leo Moore,leo.moore4@email.com,+1-270-949-4394,,Basic,ACTIVE,24,2021-10-02
+CUST0223,Frank White,frank.white51@email.com,+1-800-321-4817,CENTRAL,Premium,ACTIVE,26,2022-04-27
+CUST0224,Amara Thompson,amara.thompson76@email.com,+1-536-892-3417,North,Enterprise,Active,37,2020-04-03
+CUST0225, Wendy Moore ,wendy.moore73@email.com,+1-810-102-5542,East,Standard,Inactive,18,2023-02-26
+CUST0226, Tina Lewis ,tina.lewis85@email.com,+1-348-233-9850,North ,Standrd,Inactive,43,2021-03-29
+CUST0227,Quinn Smith,quinn.smith4@email.com,+1-456-917-3858,South,Basic,Active,39,2020-10-25
+CUST0228,Victor Thompson,victor.thompson11@email.com,+1-312-776-1422,East,Basic,ACTIVE,57,03/02/2020
+CUST0229,Jack Young,jack.young83@email.com,,West,Premium,Inactive,42,2021-06-18
+CUST0230,David Jones,david.jones55@email.com,+1-443-702-6304,central,Enterprise,Inactive,69,2023-02-07
+CUST0231,Iris Brown,iris.brown18@email.com,+1-216-278-5347,South,Enterprise,Active,39,2023-04-11
+CUST0232,Cleo Brown,cleo.brown60@email.com,+1-253-229-7897,west,Standard,inactive,46,01/04/2023
+CUST0233,Xander Thompson,xander.thompson24@email.com,+1-738-216-2041,North ,Standard,In-active,39,2022-05-05
+CUST0234,Eve Wilson,eve.wilson7@email.com,+1-687-559-6931,South,Premium,Inactive,45,27 Aug 2021
+CUST0235,Jack Clark,jack.clark34@email.com,+1-725-707-2786,WEST,Premium,Inactive,70,2020-11-08
+CUST0236,  Grace Walker  ,grace.walker49@email.com,+1-662-615-4629,East,Standard,Suspended,70,05 Feb 2021
+CUST0237,Karen Miller,karen.miller42@email.com,+1-829-144-9543,North,Standard,suspended,59,2021-11-06
+CUST0238,Victor Lewis,,+1-508-569-1510,west,Enterprise,Suspd.,56,2021-04-16
+CUST0239,Brice Wilson,brice.wilson59@email.com,+1-262-590-7580,North,Enterprise,Active,26,2022/02/16
+CUST0240,Quinn Harris,quinn.harris42@email.com,+1-636-802-2768,West ,Enterprise,Inactive,37,12 Mar 2023
+CUST0241,Iris Johnson,iris.johnson44@email.com,+1-702-829-8267,,Premium,Suspended,38,18/05/2021
+CUST0242,Carol Lewis, carol.lewis98@email.com ,+1-275-182-6277,East,Enterprise,Inactive,56,2022-10-19
+CUST0243,Noah Wilson,noah.wilson49@email.com,+1-822-251-2076,Sth,Basic,SUSPENDED,62,2023-02-01
+CUST0244,Bob Smith,bob.smith36@email.com,+1-329-381-9984,West,basic,Active,30,2023/09/02
+CUST0245,Karen Jones,,+1-929-432-7240,North,Enterprise,Active,48,2023-11-03
+CUST0246,Uma Wilson,uma.wilson54@email.com,+1-811-643-5831,East,Enterprise,Suspended,38,11-22-2021
+CUST0247,Frank Hall,frank.hall33@email.com,+1-664-617-8048,South,Standard,Active,29,2021-06-11
+CUST0248,Olivia Thompson,olivia.thompson11@email.com,+1-301-912-2874,north,Standard,Inactive,43,27 Sep 2022
+CUST0249,Wendy Jackson,wendy.jackson61@email.com,+1-870-766-4522,East,Premium,inactive,38,2023-08-07
+CUST0250,Rose Smith,rose.smith3@email.com,+1-640-562-4743,North,Basik,Active,36,2022-10-01
+CUST0251,David Williams,david.williams96@email.com,+1-623-447-8430,East,Basic,Inactive,65,2022-08-01
+CUST0252,Cleo Walker,cleo.walker70@email.com,+1-608-525-2557,South,Premium,Suspended,62,2020-12-10
+CUST0253,Cleo Jones,cleo.jones7@email.com,+1-520-537-6120,South ,Enterprise,Suspended,58,2021/12/22
+CUST0254,  Rose Johnson  ,rose.johnson45@email.com,+1-881-361-7132,North,Enterprise,Suspd.,49,2020/12/12
+CUST0255,Amara Anderson,amara.anderson29@email.com,+1-356-803-8770,East,Premium,Inactive,54,2020-10-13
+CUST0256,Sam Thompson,sam.thompson84@email.com,+1-268-193-2398,West,basic,Suspended,68,2023-01-24
+CUST0257,Eve Jackson,eve.jackson9@email.com,+1-295-542-2582,,Basic,active,33,2022-09-27
+CUST0258,Eve Johnson,eve.johnson84@email.com,,West,Enterprise,Suspended,999,2021-01-11
+CUST0259,Jack Anderson,jack.anderson6@email.com,+1-333-669-1982,West,standard,Inactive,42,2023-01-15
+CUST0260,Cleo Johnson,cleo.johnson97@email.com,+1-800-675-6400,Centr.,,Inactive,35,2023-08-07
+CUST0261,Cleo Anderson,cleo.anderson4@email.com,+1-886-225-7730,North,Premium,Suspended,70,2020-04-30
+CUST0262,Grace Young,grace.young32@email.com,+1-562-994-7929,North,Enterprise,Active,68,2022-12-09
+CUST0263,Henry Young,henry.young26@email.com,+1-938-152-5712,North,Premium,Active,43,2020-03-10
+CUST0264,David Anderson,david.anderson3@email.com,,East,BASIC,Active,41,2020-06-01
+CUST0265,Yara Thompson,yara.thompson80@email.com,+1-306-691-9313,South,Enterprise,Inactive,25,2023-09-30
+CUST0266,Cleo Jackson,cleo.jackson20@email.com,+1-417-258-8900,South,Basik,Active,54,04-09-2020
+CUST0267,Tina Hall,tina.hall31@email.com,+1-429-967-2773,Central,Standard,Inactive,30,2020/01/14
+CUST0268,Eve Davis,eve.davis17@email.com,+1-558-965-7022,Central,Premium,Suspended,55,2022-04-24
+CUST0269,Brice Garcia,brice.garcia61@email.com,+1-317-880-5564,Central,,Suspended,52,2020-10-08
+CUST0270, Zane Garcia ,zane.garcia86@email.com,+1-787-331-8030,West,Basic,Inactive,29,15 Jul 2023
+CUST0271,Cleo Jackson,cleo.jackson15@email.com,+1-774-885-1430,North,Enterprise,Inactive,61,2021-04-18
+CUST0272,Alice Garcia,alice.garcia73@email.com,+1-823-773-5381,east,Enterprise,Suspended,67,2020-05-19
+CUST0273,  Xander Taylor  ,xander.taylor28@email.com,+1-229-284-5477,South,Premium,Suspended,53,2023-12-19
+CUST0274,Zane Jackson,zane.jackson60@email.com,+1-919-880-6062,East,Basic,inactive,19,2020-11-05
+CUST0275,Zane Young,zane.young90@email.com,+1-547-459-1100,,Standard,Suspended,64,19 Jan 2020
+CUST0276,Brice Hall,brice.hall33@email.com,+1-385-990-3347,North,basic ,Suspnded,47,2021-03-23
+CUST0277,Zane Davis,   zane.davis99@email.com   ,+1-779-773-7566,South,Enterprise,Active,63,2022-11-01
+CUST0278,Iris Garcia,iris.garcia48@email.com,+1-271-245-1502,Wst,Premium,Active,31,2022-07-22
+CUST0279,Zane Walker,zane.walker22@email.com,+1-293-864-9691,,Premium,Suspended,46,2022-02-03
+CUST0280,David Thomas,david.thomas78@email.com,+1-420-485-7878,West,Premium,Suspended,69,2020/05/03
+CUST0281,Brice Johnson,brice.johnson78@email.com,+1-664-449-3578,north,Standard,Active,36,2023-06-19
+CUST0282,Brice Harris,brice.harris96@email.com,+1-578-419-6314,NORTH,Standard,Suspended,62,30 Jul 2023
+CUST0283,   Henry Miller   ,henry.miller92@email.com,+1-995-681-2391,,enterprise,Inactive,22,2023-09-27
+CUST0284,Amara White,amara.white15@email.com,+1-253-259-3579,Central,Basic,suspended,70,2023-06-16
+CUST0285,Leo Moore,   leo.moore21@email.com   ,+1-972-732-1815,Central,Basic,Suspended,68,2022-09-16
+CUST0286,Amara Davis,,+1-890-183-5458,North,BASIC,inactive,68,2023/09/12
+CUST0287,Henry Smith,henry.smith14@email.com,,Central,Standard,Active,44,2022-09-26
+CUST0288,Victor Miller,victor.miller75@email.com,+1-697-721-8242,Central,premium,Suspended,61,2020-02-02
+CUST0289,Mia Taylor,mia.taylor4@email.com,+1-624-379-4531,South,Enterprise,Active,49,2020/01/14
+CUST0290,Iris Williams,iris.williams40@email.com,+1-973-624-2864,South,Enterprise,Active,26,2022-12-25
+CUST0291,Yara Wilson,,+1-553-540-2816,East,Std,suspended,58,2023-02-03
+CUST0292,Leo Lewis,,+1-490-794-8972,West,Standard,Suspended,37,2022-04-22
+CUST0293,   Quinn Thomas   ,quinn.thomas49@email.com,+1-739-783-6053,north,Premium,Active,33,01-25-2020
+CUST0294,Victor Thompson,victor.thompson51@email.com,+1-246-325-7475,Central,Premium,Suspended,34,04 Feb 2020
+CUST0295,Karen Smith,karen.smith92@email.com,+1-813-156-1125,East,,Suspended,60,2022-12-20
+CUST0296,David Wilson,david.wilson26@email.com,+1-409-408-4460,South,Enterprise,Active,27,2021/07/16
+CUST0297,Frank Robinson,   frank.robinson10@email.com   ,+1-985-240-5186,Central,Premiun,active,63,2023-01-02
+CUST0298,Iris Johnson,iris.johnson76@email.com,+1-496-435-2965,West,Premium,Inactive,45,10/08/2021
+CUST0299,David Clark,david.clark89@email.com,+1-207-609-8055,,Enterprise,Suspended,68,2020/02/05
+CUST0300,Noah Anderson,noah.anderson81@email.com,,North,Premium,Inactive,42,2022-10-25
+CUST0047,Victor Wilson,victor.wilson49@email.com,+1-914-229-9042,Central,Premium,Inactive,28,2022-07-07
+CUST0057,Henry Young,henry.young39@email.com,,South,Premium,Active,20,2020-08-30
+CUST0239,Brice Wilson,brice.wilson59@email.com,+1-262-590-7580,North,Enterprise,Active,26,2022/02/16
+CUST0252,Cleo Walker,cleo.walker70@email.com,+1-608-525-2557,South,Premium,Suspended,62,2020-12-10
+CUST0074,Cleo Robinson,cleo.robinson85@email.com,+1-470-906-4241,West,Premium,Suspended,19,2021-05-21
+CUST0217,Rose Miller,rose.miller22@email.com,+1-394-225-8450,East,Premium,SUSPENDED,49,2020-07-20
+CUST0214,Alice White,alice.white87@email.com,+1-301-802-7018,South,Premium,Suspended,33,2022-11-16
+CUST0129,Uma Anderson,,+1-765-881-9903,Central,Premium,Suspended,61,2023-10-22
+CUST0236,  Grace Walker  ,grace.walker49@email.com,+1-662-615-4629,East,Standard,Suspended,70,05 Feb 2021
+CUST0051,Frank Thompson,frank.thompson79@email.com,+1-388-152-5136,South,enterprise,SUSPENDED,59,2023-10-30
+CUST0159,Mia Hall,mia.hall37@email.com,,Central,Enterprise,Suspended,66,2023-02-15
+CUST0018,Sam Wilson,sam.wilson93@email.com,+1-783-724-7209,West,BASIC,Suspended,35,04 Aug 2022
+CUST0109,Paul Smith,paul.smith84@email.com,+1-915-596-2989,West,Basik,Inactive,39,2023-03-25
+CUST0255,Amara Anderson,amara.anderson29@email.com,+1-356-803-8770,East,Premium,Inactive,54,2020-10-13
+CUST0211,Victor Lewis,victor.lewis50@email.com,+1-486-133-7070,Centr.,Std,Active,22,2021-09-23
