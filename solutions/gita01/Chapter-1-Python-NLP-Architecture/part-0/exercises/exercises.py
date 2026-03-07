@@ -1,3 +1,3 @@
-print("HELLO_WORLD");
+print("HELLO_WORLD")
 name=input("What is your name? ")
-print("Hello " + name + "!")
+print(f"Hello  {name}!")
